@@ -51,9 +51,7 @@ namespace Binary_At_Leftmost_Position
 
             Console.WriteLine("Test" + storeIndex);
             return -1;
-
         }
-
 
         static void Main(string[] args)
         {

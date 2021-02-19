@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Inverting Arrays Or Lists At An Index Of/1.0.0": {
+        "runtime": {
+          "Inverting Arrays Or Lists At An Index Of.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inverting Arrays Or Lists At An Index Of/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
