@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace Inverting_Arrays_Or_Lists_At_An_Index_Of
@@ -43,13 +43,7 @@ namespace Inverting_Arrays_Or_Lists_At_An_Index_Of
 
         public static List<int> InvertAtIndexOf(List<int> arr, List<List<int>> operations)
         {
-            List<int> copy = new List<int>();
             List<int> result = new List<int>();
-
-            foreach (int integer in arr)
-            {
-                copy.Add(integer);
-            }
 
             foreach (int integer in arr)
             {
